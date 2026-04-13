@@ -79,7 +79,7 @@ cd cd2_analise_enem
 
 ```
 
-2. Criar ambiente virtual
+### 2. Criar ambiente virtual
 
 ``` bash
 
@@ -97,14 +97,14 @@ venv\Scripts\activate
 
 ```
 
-3. Instalar dependências
+### 3. Instalar dependências
 
 ``` bash
 pip install -r requirements.txt
 
 ```
 
-4. Executar análises
+### 4. Executar análises
 
 Abra os notebooks:
 
