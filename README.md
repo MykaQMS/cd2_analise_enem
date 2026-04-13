@@ -76,15 +76,34 @@ cd2_analise_enem/
 ```bash
 git clone <url-do-repositorio>
 cd cd2_analise_enem
+
+```
+
 2. Criar ambiente virtual
+
+``` bash
+
 python -m venv venv
+
+```
+
 
 Ativar:
 
 Windows:
+``` bash
+
 venv\Scripts\activate
+
+```
+
 3. Instalar dependências
+
+``` bash
 pip install -r requirements.txt
+
+```
+
 4. Executar análises
 
 Abra os notebooks:
@@ -106,18 +125,19 @@ Correlações
 Regressão múltipla
 Análise de fatores explicativos
 (Opcional) Classificação e agrupamento
+
 📈 Resultados Esperados
 Identificação de fatores que impactam o desempenho no ENEM
 Comparação entre diferentes perfis de escolas
 Insights sobre desigualdade educacional
+
 🚀 Possíveis Extensões
 Clusterização de escolas
 Modelos preditivos de desempenho
 Dashboard em Power BI
-👤 Autor
 
+👤 Autor
 Mykael Querido
 
 📝 Observações
-
 Este projeto tem caráter educacional e foi desenvolvido para fins acadêmicos.
