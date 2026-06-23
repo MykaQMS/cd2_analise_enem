@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="460" viewBox="0 0 980 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="490.0" y="30.0" font-size="17" text-anchor="middle" fill="#222">Caracterizacao dos grupos pelas notas medias</text>
+<line x1="70" y1="355" x2="890" y2="355" stroke="#444"/>
+<line x1="70" y1="55" x2="70" y2="355" stroke="#444"/>
+<text x="138.3" y="383.0" font-size="11" text-anchor="middle" fill="#222">CN</text>
+<rect x="92.8" y="187.8" width="38.7" height="167.2" fill="#b94e48"/>
+<rect x="138.3" y="157.5" width="38.7" height="197.5" fill="#d89a2b"/>
+<text x="275.0" y="383.0" font-size="11" text-anchor="middle" fill="#222">CH</text>
+<rect x="229.4" y="182.5" width="38.7" height="172.5" fill="#b94e48"/>
+<rect x="275.0" y="149.4" width="38.7" height="205.6" fill="#d89a2b"/>
+<text x="411.7" y="383.0" font-size="11" text-anchor="middle" fill="#222">LC</text>
+<rect x="366.1" y="174.3" width="38.7" height="180.7" fill="#b94e48"/>
+<rect x="411.7" y="150.9" width="38.7" height="204.1" fill="#d89a2b"/>
+<text x="548.3" y="383.0" font-size="11" text-anchor="middle" fill="#222">MT</text>
+<rect x="502.8" y="180.2" width="38.7" height="174.8" fill="#b94e48"/>
+<rect x="548.3" y="132.8" width="38.7" height="222.2" fill="#d89a2b"/>
+<text x="685.0" y="383.0" font-size="11" text-anchor="middle" fill="#222">REDACAO</text>
+<rect x="639.4" y="146.9" width="38.7" height="208.1" fill="#b94e48"/>
+<rect x="685.0" y="77.2" width="38.7" height="277.8" fill="#d89a2b"/>
+<text x="821.7" y="383.0" font-size="11" text-anchor="middle" fill="#222">NOTA_MEDIA</text>
+<rect x="776.1" y="174.3" width="38.7" height="180.7" fill="#b94e48"/>
+<rect x="821.7" y="133.6" width="38.7" height="221.4" fill="#d89a2b"/>
+<rect x="775" y="60" width="12" height="12" fill="#b94e48"/>
+<text x="794.0" y="70.0" font-size="12" text-anchor="start" fill="#222">Desempenho mais baixo</text>
+<rect x="775" y="82" width="12" height="12" fill="#d89a2b"/>
+<text x="794.0" y="92.0" font-size="12" text-anchor="start" fill="#222">Desempenho intermediario</text>
+<text x="35.0" y="205.0" font-size="12" text-anchor="middle" fill="#222">Media</text>
+</svg>

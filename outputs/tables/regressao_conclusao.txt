@@ -1,0 +1,9 @@
+A regressao linear multipla indicou que as variaveis mais associadas ao desempenho medio no ENEM 2024 foram: TP_DEPENDENCIA_ADM_ESC_2.0, TP_DEPENDENCIA_ADM_ESC_3.0, SG_UF_ESC_AL, TP_LINGUA_1, SG_UF_ESC_RR, SG_UF_PROVA_RR, SG_UF_ESC_PA, SG_UF_PROVA_MG, SG_UF_PROVA_SC, SG_UF_ESC_AM. Os sinais dos coeficientes mostram se cada categoria esta associada a notas medias maiores ou menores em relacao a categoria de referencia, mantendo as demais variaveis constantes.
+
+A qualidade preditiva do modelo, avaliada no conjunto de teste, apresentou R2 = 0.3123, MAE = 60.38 pontos e RMSE = 76.19 pontos. Assim, o modelo deve ser interpretado principalmente como uma ferramenta de analise de associacoes entre caracteristicas observadas e desempenho, e nao como um modelo causal.
+
+Ao nivel de significancia de 5%, 18 coeficientes foram estatisticamente significativos. Esse resultado indica que parte das categorias incluidas possui evidencia estatistica de associacao com a nota media, condicionada as demais variaveis do modelo.
+
+As principais limitacoes sao: ausencia, nesta base carregada, de algumas variaveis socioeconomicas sugeridas; natureza observacional dos dados; possibilidade de variaveis omitidas; e uso de relacoes lineares para representar um fenomeno educacional complexo. A analise de VIF apontou 53 variaveis com VIF acima de 10, o que pode indicar multicolinearidade em parte das variaveis codificadas.
+
+Como melhorias futuras, recomenda-se incorporar a base completa com questionario socioeconomico quando disponivel, testar modelos com regularizacao, avaliar interacoes entre variaveis educacionais e territoriais, e comparar os resultados com modelos nao lineares mantendo a regressao linear como linha de base interpretavel.

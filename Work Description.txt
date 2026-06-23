@@ -1,0 +1,45 @@
+🥇 Tema sugerido:
+
+"Impacto das características escolares no desempenho dos alunos no ENEM"
+
+Stack do trabalho:
+Descritiva → perfil das escolas
+Testes → pública vs privada
+Correlação → infraestrutura vs nota
+Regressão → modelo explicativo
+(Opcional) cluster → tipos de escola
+
+🧱 Estrutura do trabalho
+📌 Problema
+Quais fatores influenciam o desempenho educacional no Brasil?
+
+📊 Base
+ENEM 2024
+Censo Escolar 2024
+📈 Etapas
+
+Entrega 1:
+Descrição das bases
+Variáveis
+Gráficos iniciais
+
+Entrega 2:
+Estatística descritiva
+Testes (ex: pública vs privada)
+Correlações
+
+Entrega 3:
+Regressão múltipla
+Interpretação
+Insights
+
+⚠️ 6. Cuidados importantes
+Evitar:
+Séries temporais (como pediram)
+Modelos muito complexos (ML pesado)
+Preferir:
+Clareza > sofisticação
+Interpretação estatística
+
+💡 7. Se quiser dar um nível a mais:
+📍 Recorte geográfico (ex: Sudeste vs Brasil)

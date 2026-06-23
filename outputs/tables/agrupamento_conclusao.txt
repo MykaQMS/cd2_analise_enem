@@ -1,0 +1,19 @@
+Analise de agrupamento - ENEM 2024
+
+Tecnica utilizada: K-medias com variaveis padronizadas e distancia euclidiana.
+Unidade de analise: escola.
+Variaveis usadas: notas medias de Ciencias da Natureza, Ciencias Humanas, Linguagens, Matematica, Redacao e media geral.
+
+Registros lidos: 4,332,944
+Registros validos com escola, presenca nas provas e notas completas: 1,193,432
+Escolas analisadas apos filtro de pelo menos 30 participantes: 12,817
+
+Validacao:
+O numero de grupos foi avaliado de k=2 a k=8 por inercia e indice de silhueta.
+A regra objetiva pela maior silhueta selecionou k=2, com silhueta=0.5914.
+
+Principais resultados:
+Foram identificados 2 perfis de escolas. O perfil de menor desempenho tem media geral de 500.63 pontos, enquanto o perfil de maior desempenho tem media geral de 613.57 pontos. A diferenca entre esses extremos e de 112.94 pontos.
+
+Interpretacao:
+Os grupos se diferenciam principalmente pelo nivel medio de desempenho nas cinco areas, com Matematica e Redacao contribuindo para ampliar a distancia entre os perfis. Como as variaveis foram padronizadas, nenhuma prova domina o calculo apenas por escala. A analise deve ser lida como descricao de perfis de desempenho escolar, nao como evidencia causal.
